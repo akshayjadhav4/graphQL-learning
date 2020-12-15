@@ -22,7 +22,7 @@ const schema = buildSchema(`
         MERN
         GraphQL
         JS
-        REACT NATIVE
+        REACTNATIVE
         FLUTTER
         IOS
     }
