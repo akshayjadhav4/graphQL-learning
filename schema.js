@@ -39,7 +39,7 @@ const schema = buildSchema(`
         language: String
         email: String
         stack: Stack
-        teachingAssists: TeachingAssists
+        teachingAssists: TeachingAssistsInput!
     }
 
     input TeachingAssistsInput {
